@@ -2,10 +2,30 @@
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=3000&pause=2000&color=47C240&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Gabriel+%F0%9F%91%8B;Welcome+to+my+profile)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img height="137px" width="auto" src="https://github-readme-stats.vercel.app/api?username=gafischer&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&line_height=21&title_color=47c240&icon_color=47c240&text_color=c9d1d9&hide_title=true" alt="Gabriel Fischer Schroeder GitHub Stats" /> 
-  
-  <img height="137px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gafischer&layout=compact&hide_border=true&theme=transparent&title_color=47c240&text_color=ffffff&hide_title=true&langs_count=6" alt="Gabriel Fischer Schroeder Most Used Languages" />
+<div align="center">    
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=gafischer&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&line_height=21&title_color=47c240&icon_color=47c240&text_color=fff&hide_title=true"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=gafischer&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&line_height=21&title_color=47c240&icon_color=47c240&text_color=333&hide_title=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=gafischer&show_icons=true" />
+</picture>
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gafischer&layout=compact&hide_border=true&theme=transparent&title_color=47c240&text_color=fff&hide_title=true&langs_count=6"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gafischer&layout=compact&hide_border=true&theme=transparent&title_color=47c240&text_color=333&hide_title=true&langs_count=6"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="ttps://github-readme-stats.vercel.app/api/top-langs/?username=gafischer&layout=compact" />
+</picture>
 </div>
 
 ### Languages and Tools:
