@@ -12,7 +12,7 @@
   srcset="https://github-readme-stats.vercel.app/api?username=gafischer&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&line_height=21&title_color=47c240&icon_color=47c240&text_color=333&hide_title=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=gafischer&show_icons=true" />
+<img height="137px" width="auto" src="https://github-readme-stats.vercel.app/api?username=gafischer&show_icons=true" />
 </picture>
 
 <picture>
@@ -24,7 +24,7 @@
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gafischer&layout=compact&hide_border=true&theme=transparent&title_color=47c240&text_color=333&hide_title=true&langs_count=6"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="ttps://github-readme-stats.vercel.app/api/top-langs/?username=gafischer&layout=compact" />
+<img height="137px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gafischer&layout=compact" />
 </picture>
 </div>
 
