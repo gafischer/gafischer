@@ -31,19 +31,19 @@
 ### Languages and Tools:
 
 <div>
- <a href="https://www.w3.org/html/"><img alt="html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href="https://www.w3.org/TR/CSS/#css"><img alt="css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-  <a href="https://www.typescriptlang.org/"><img alt="typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
-  <a href="https://reactjs.org/"><img alt="reactjs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></a>
-  <a href="https://reactnative.dev/"><img alt="reactnative" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
-  <a href="https://code.visualstudio.com/"><img alt="vscode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
-  <a href="https://visualstudio.microsoft.com/"><img alt="visualstudio" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></a>
-  <a href="	www.microsoft.com/sqlserver/"><img alt="microsoftsqlserver" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></a>
-  <a href="https://www.postgresql.org/"><img alt="postgresql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></a>
-  <a href="https://www.mongodb.com/"><img alt="mongodb" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></a>
-  <a href="https://yarnpkg.com/"><img alt="yarn" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"></a>
+ <a href="https://www.w3.org/html/" target="_blank"><img alt="html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img alt="css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img alt="typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
+  <a href="https://reactjs.org/" target="_blank"><img alt="reactjs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></a>
+  <a href="https://reactnative.dev/" target="_blank"><img alt="reactnative" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img alt="csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img alt="vscode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank"><img alt="visualstudio" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></a>
+  <a href="	www.microsoft.com/sqlserver/" target="_blank"><img alt="microsoftsqlserver" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img alt="postgresql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img alt="mongodb" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></a>
+  <a href="https://yarnpkg.com/" target="_blank"><img alt="yarn" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"></a>
   <a href="https://www.sourcetreeapp.com/"><img alt="sourcetree" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sourcetree/sourcetree-original.svg"></a>
 </div>
 
